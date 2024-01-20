@@ -58,3 +58,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+#logo {
+    position: absolute;
+    top: 5px; /* Ajusta según sea necesario */
+    right: 50px; /* Ajusta según sea necesario */
+    width: 200px; /* Ajusta según sea necesario */
+    height: auto;
+}
